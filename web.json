@@ -21,6 +21,10 @@
             "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
         },
         {
+            "name": "动漫城",
+            "url": "https://www.yingm.cc/dm/dm.json"
+        }
+        {
             "name": "饭太硬",
             "url": "http://www.饭太硬.cc/tv"
         },
@@ -61,36 +65,12 @@
             "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
         },
         {
-            "name": "高天流云",
-            "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-        },
-        {
             "name": "科技长青",
             "url": "https://13413.kstore.space/tv/changqing.json"
         },
         {
-            "name": "刘备",
-            "url": "https://raw.liucn.cc/box/m.json"
-        },
-        {
-            "name": "俊佬",
-            "url": "http://home.jundie.top:81/top98.json"
-        },
-        {
-            "name": "L佬",
-            "url": "https://android.lushunming.qzz.io/json/index.json"
-        },
-        {
             "name": "挺好",
             "url": "https://ztha.top/TVBox/thdjk.json"
-        },
-        {
-            "name": "影探",
-            "url": "http://www.lyyytv.cn/yt/yt.json"
-        },
-        {
-            "name": "动漫城",
-            "url": "https://www.yingm.cc/dm/dm.json"
         }
     ]
 }
