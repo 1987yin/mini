@@ -41,10 +41,6 @@
             "url": "https://tv.菜妮丝.top"
         },
         {
-            "name": "真心",
-            "url": "https://www.252035.xyz/z/FongMi.json"
-        },
-        {
             "name": "道长",
             "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/drjs_config.json"
         },
@@ -95,18 +91,6 @@
         {
             "name": "动漫城",
             "url": "https://www.yingm.cc/dm/dm.json"
-        },
-        {
-            "name": "动漫频道",
-            "url": "http://xhztv.top/dc/动漫频道/api.json"
-        },
-        {
-            "name": "哈基米",
-            "url": "https://17264.kstore.space/哈基米.png"
-        },
-        {
-            "name": "影视资源",
-            "url": "http://bp.tvbox.cam"
         }
     ]
 }
